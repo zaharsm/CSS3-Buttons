@@ -7,4 +7,4 @@ completed CSS3 Fancy Buttons which includes-
 4) Animated Buttons
 5) Toggle Switch UI Buttons
 
-<img src="css3-buttons.css" >
+<img src="css3-buttons.png" >
