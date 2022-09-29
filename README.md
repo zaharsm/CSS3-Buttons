@@ -7,4 +7,6 @@ completed CSS3 Fancy Buttons which includes-
 4) Animated Buttons
 5) Toggle Switch UI Buttons
 
+Deployed Link - https://zaharsm.github.io/css3-buttons/
+
 <img src="css3-buttons.png" >
